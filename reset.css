@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap
+}
+
